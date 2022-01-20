@@ -440,7 +440,7 @@
   "login": {
     "domain_name_label": "Als erstes wollen wir uns bei einer Mastodon-Server anmelden. Bitte gib den Domainnamen einer Server an.",
     "proxy_info": "Wenn Sie den Proxy-Server verwenden möchten, richten Sie bitte Ihren Proxy ein in",
-    "proxy_here": " hier",
+    "proxy_here": "hier",
     "search": "Suche",
     "login": "Anmelden"
   },

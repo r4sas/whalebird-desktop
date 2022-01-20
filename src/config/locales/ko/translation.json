@@ -440,7 +440,7 @@
   "login": {
     "domain_name_label": "우선, 마스토돈 인스턴스에 로그인 할 거예요. 인스턴스 도메인 주소를 입력해주세요.",
     "proxy_info": "If you want to use proxy server, please setup your proxy in",
-    "proxy_here": " here",
+    "proxy_here": "here",
     "search": "검색",
     "login": "로그인"
   },

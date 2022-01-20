@@ -440,7 +440,7 @@
   "login": {
     "domain_name_label": "Pertama, masuk ke server Mastodon.\nMohon masukkan nama domain server.",
     "proxy_info": "Jika kamu ingin menggunakan server proksi, mohon atur proksi kamu di",
-    "proxy_here": " sini",
+    "proxy_here": "sini",
     "search": "Cari",
     "login": "Masuk"
   },

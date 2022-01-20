@@ -440,7 +440,7 @@
   "login": {
     "domain_name_label": "First, let's log in to a Mastodon server. Please enter a server domain name.",
     "proxy_info": "If you want to use proxy server, please setup your proxy in",
-    "proxy_here": " here",
+    "proxy_here": "here",
     "search": "Search",
     "login": "Login"
   },

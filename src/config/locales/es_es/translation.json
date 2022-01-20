@@ -440,7 +440,7 @@
   "login": {
     "domain_name_label": "Primero, iniciemos sesión en un servidor Mastodon. Por favor, introduzca un nombre de dominio del servidor.",
     "proxy_info": "Si desea utilizar el servidor proxy, configure su proxy en",
-    "proxy_here": " aquí",
+    "proxy_here": "aquí",
     "search": "Buscar",
     "login": "Ingresar"
   },

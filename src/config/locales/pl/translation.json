@@ -440,7 +440,7 @@
   "login": {
     "domain_name_label": "Na początek musisz się zalogować na serwerze Mastodona. Wprowadź domenę serwerze.",
     "proxy_info": "If you want to use proxy server, please setup your proxy in",
-    "proxy_here": " here",
+    "proxy_here": "here",
     "search": "Znajdź",
     "login": "Zaloguj się"
   },

@@ -440,7 +440,7 @@
   "login": {
     "domain_name_label": "Nì sinn clàradh a-steach air frithealaiche Mastodon an toiseach. Cuir a-steach ainm àrainne an fhrithealaiche.",
     "proxy_info": "Ma tha thu airson frithealaiche progsaidh a chleachdadh, suidhich am progsaidh agad an-seo:",
-    "proxy_here": " an-seo",
+    "proxy_here": "an-seo",
     "search": "Lorg",
     "login": "Clàraich a-steach"
   },
